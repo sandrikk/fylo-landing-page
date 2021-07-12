@@ -1,0 +1,24 @@
+.header {
+    nav {
+        padding: 3rem;
+    }
+    
+    &__logo {
+        img {
+        width: 10rem;
+		height: 2.875rem;
+        }
+    }
+
+    &__menu {
+
+        a {
+            color: $darkBlue;
+            font-family: 'Raleway', sans-serif;
+        }
+
+        li:not(:last-child){
+            margin-right: 3.125rem;
+        }
+    }
+}
