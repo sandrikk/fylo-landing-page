@@ -173,7 +173,7 @@ h4 {
   left: 0;
   height: 5rem;
   width: 100%;
-  background-image: url("/images/bg-curve-mobile.svg");
+  background-image: url("https://sandrikk.github.io/fylo-landing-page/images/bg-curve-mobile.svg");
 }
 
 .section2 {
@@ -431,7 +431,7 @@ h4 {
     padding: 0.9375rem 3.75rem;
   }
   .section2::before {
-    background-image: url("/images/bg-curve-desktop.svg");
+    background-image: url("https://sandrikk.github.io/fylo-landing-page/images/bg-curve-desktop.svg");
   }
   .section2 {
     -webkit-box-orient: horizontal;
